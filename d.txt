@@ -1,6 +1,8 @@
-<<<<<<< HEAD
+
+]
+
 merge local
  assignemtn 03 
 assignment remote edit
  pushing to remote again
- branching practice
+ pushing to remote again merging
